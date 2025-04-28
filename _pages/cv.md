@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <a href="https://pastel.hal.science/tel-01621714"> Ph.D in Architectural Geometry</a>, <a href="https://ecoledesponts.fr/">Ecole Nationale des Ponts et Chaussées</a>, 2017 
+* M.Eng. in Structural Engineering, MIT, 2013
+* Diplôme d'ingénieur, Ecole Nationale des Ponts et Chaussées, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2017: Manager of <a href="https://buildin-enpc.fr/">Build'in</a> technological platform
+  * Ecole Nationale des Ponts et Chaussées
+  * Duties includes: proposal writing, PhD supervision
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2013: Teaching Assistant
+  * Massachusetts Institute of Technology
+  * Duties included: Problem set writing and grading
+  * Supervisor: Professor Tomasz Wierzbicki
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* 2011-2012: Structural Engineer
+  * LEICHT Structural Engineering and Specialist consulting
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for journals including Automation in Construction
+* Scientific Committee of RILEM Digital Concrete, Advances in Architectural Geometry, Design Modelling Symposium
