@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-5762-6037"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Romain-Mesnil?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56835673900"
 
   # Repositories and software development
@@ -100,7 +100,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "light" (default)
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -222,10 +222,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
     output: true
     permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
