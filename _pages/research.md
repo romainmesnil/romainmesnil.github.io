@@ -19,7 +19,7 @@ My interest lies initially in the determination of fabrication-aware shape defin
 More recently, I have been collaborating with other researchers from [Laboratoire Navier](https://navier-lab.fr/) and [LMS](https://lms.ip-paris.fr/) on the simulation of 3D printing process.
 
 <p align="center">
-  <img src="images/slugs.jpg" width=300 />
+  <img src="../images/slugs.jpg" width=500 />
 </p>
 
 ## Mechanics of shell structures
