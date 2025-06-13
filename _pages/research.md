@@ -18,8 +18,12 @@ I am focused on developing and applying novel manufacturing technologies to cons
 My interest lies initially in the determination of fabrication-aware shape definition related to the 3D printing process. This has led me to conduct research on process engineering, between rheology and solid mechanics. I was involved in the definition of several rheological testing procedures that are now commonplace in 3d printing.
 More recently, I have been collaborating with other researchers from [Laboratoire Navier](https://navier-lab.fr/) and [LMS](https://lms.ip-paris.fr/) on the simulation of 3D printing process.
 
-## Shape optimization
+<p align="center">
+  <img src="images/slugs.jpg" width=300 />
+</p>
 
+## Mechanics of shell structures
+I developed a strong interest in structural form-finding and structural optimization of continuous and discrete shell structures. On top of developing programs form-finding techniques, I'm interested in the structural behaviour of continuous and discrete shell structures. At the moment, I am applying techniques, such as periodic homogenization, aiming to reduce the computational complexity of mechanical computations to allow real-time interaction with the designer, and eventually solve inverse problems or optimization problems. Other topics of personal interest include pre-stressed and reinforced concrete structures, as well as anisotropic shell structures.
 
 
 <!-- {% for post in site.research %}
